@@ -12,7 +12,7 @@ import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/so-yummy-front-end">
+    <BrowserRouter basename="/react_node_fs_57_4106677">
       <Provider store={store}>
         <PersistGate loading={null} persistor={persistor}>
           <AuthLayout>
